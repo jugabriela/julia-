@@ -1,7 +1,4 @@
-body{ 
-    background-color: blue;
+body {
+      background-color: blue;
 }
-
-.cabecalho-imagem{
-    width: 20%;
-}
+header {background-color: blueviolet;} 
