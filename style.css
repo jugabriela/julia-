@@ -1,4 +1,9 @@
 body {
       background-color: blue;
 }
-header {background-color: blueviolet;} 
+header {background-color: blueviolet;
+
+display: flex;
+justify-content: space-around;} 
+
+.imagem{width: 10%;}
