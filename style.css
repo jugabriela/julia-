@@ -9,3 +9,8 @@ align-items: center;
 padding:24px 0;} 
 
 .imagem{width: 10%;}
+
+.imagem2{width: 20%;}
+
+.escola {background-image: linear-gradient(rgb(25,25,112),rgb(100,149,237)) ;
+display: flex;}
