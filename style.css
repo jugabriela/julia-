@@ -13,4 +13,11 @@ padding:24px 0;}
 .imagem2{width: 20%;}
 
 .escola {background-image: linear-gradient(rgb(25,25,112),rgb(100,149,237)) ;
-display: flex;}
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 100px 0;
+}
+
+.escola-conteudo{ width: 50%;}
+.titulo-escola {padding: 24px 0;}
