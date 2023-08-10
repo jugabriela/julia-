@@ -1,6 +1,8 @@
 body {
       background-color: blue;
 }
+
+body{font-family: 'Poppins', sans-serif;}
 header {background-color: blueviolet;
 
 display: flex;
@@ -21,3 +23,5 @@ padding: 100px 0;
 
 .escola-conteudo{ width: 50%;}
 .titulo-escola {padding: 24px 0;}
+
+.estudante-imagem{width: 10%;}
