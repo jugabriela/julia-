@@ -1,38 +1,38 @@
 body {
-      background-color: blue;
-  }
-  
-  body{font-family: 'Poppins', sans-serif;}
-  header {background-color: blueviolet;
-  
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  padding:24px 0;} 
-  
-  .imagem{width: 10%;}
-  
-  .imagem2{width: 20%;}
-  
-  .escola {background-image: linear-gradient(rgb(25,25,112),rgb(100,149,237)) ;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 100px 0;
-  }
-  
-  .escola-conteudo{ width: 50%;}
-  .titulo-escola {padding: 24px 0;}
-  
-  .estudante-imagem{width: 40%;}
-  
-  .estudante-div {
-      text-align: center;
-  }
-  
-  .imagem-icone {width: 10%;}
-  
-  
-  
-  .estudantes-todos {display: grid;
-  grid-template-columns: 18% 18% 18% 18% 18% 18%;}
+    background-color: blue;
+}
+
+body{font-family: 'Poppins', sans-serif;}
+header {background-color: blueviolet;
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding:24px 0;} 
+
+.imagem{width: 10%;}
+
+.imagem2{width: 20%;}
+
+.escola {background-image: linear-gradient(rgb(25,25,112),rgb(100,149,237)) ;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 100px 0;
+}
+
+.escola-conteudo{ width: 50%;}
+.titulo-escola {padding: 24px 0;}
+
+.estudante-imagem{width: 40%;}
+
+.estudante-div {
+    text-align: center;
+}
+
+.imagem-icone {width: 10%;}
+
+
+
+.estudantes-todos {display: grid;
+grid-template-columns: 18% 18% 18% 18% 18% 18%;}
